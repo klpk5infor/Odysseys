@@ -1,0 +1,29 @@
+/* Place your CSS styles in this file */
+
+body {
+    background-color: thistle;
+    border: 5px solid lavenderblush;
+    border-radius: 15px;
+}
+
+ul {
+    list-style-type: none;
+    background-color:ivory;
+    border: 5px solid lavender;
+    border-radius: 15px;
+}
+
+li {
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    color: purple;
+}
+
+p {
+    text-align: justify;
+}
