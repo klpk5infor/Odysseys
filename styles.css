@@ -1,15 +1,15 @@
 /* Place your CSS styles in this file */
 
 body {
-    background-color: bone;
-    border: 5px solid salt;
+    background-color:cornsilk;
+    border: 5px solid blanchedalmond ;
     border-radius: 15px;
 }
 
 ul {
     list-style-type: none;
     background-color:ivory;
-    border: 5px solid linen;
+    border: 5px solid antiquewhite;
     border-radius: 15px;
 }
 
@@ -21,7 +21,7 @@ h1 {
     text-align: center;
     font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
-    color: purple;
+    color:darksalmon;
 }
 
 p {
